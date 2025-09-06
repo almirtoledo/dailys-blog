@@ -1,0 +1,11 @@
+{
+  "name": "dailys-blog",
+  "description": "Dailys Blog API",
+  "author": "Almir Toledo <deendsstudios@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "api",
+    "front",
+    "shared"
+  ]
+}
